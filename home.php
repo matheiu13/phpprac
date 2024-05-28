@@ -55,6 +55,7 @@
         }
     }
     ?>
+    </table>
 </body>
 </html>
 <?php
